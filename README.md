@@ -1,2 +1,2 @@
-# simple_RAG
-a simple implementation of retrieval-augmented generation system
+# Weaviet
+a simple implementation of retrieval applications of Weaviet (vector database)
