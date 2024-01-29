@@ -1,9 +1,9 @@
-# Weaviet
-a simple implementation of retrieval applications of Weaviet (vector database)
+# Weaviate
+a simple implementation of retrieval applications of Weaviate (vector database)
 
-For installing the requirements, run:
+To install the requirements, run:
 ```
 pip install -r requirements.txt
 ```
 
-Download the dataset from the [Kaggle_link](https://www.kaggle.com/datasets/tunguz/200000-jeopardy-questions) and locate it in the main directory, and follow the steps in the app.py.
+Download the dataset from the [Kaggle_link](https://www.kaggle.com/datasets/tunguz/200000-jeopardy-questions), and locate it in the main directory, and follow the steps in the app.py.
